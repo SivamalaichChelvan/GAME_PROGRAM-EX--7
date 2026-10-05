@@ -1,7 +1,7 @@
-# GAME_PROGRAM-EX--7
+# GAME PROGRAM-EX:7
 
-## NAME: Ganesh B C
-## REG NO: 212225040090
+## NAME: Sivamalaich Chelvan T
+## REG NO: 212225100051
 ### AIM:
   To create an AI character in Unreal Engine that roams randomly within a NavMesh area and chases the player when they come within a certain range, using Behavior Trees, Blackboard, and AI Perception.
 
